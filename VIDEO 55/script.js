@@ -44,3 +44,10 @@ let o = {
 console.log(o);
 o.salary = "100crores";
 console.log(o);
+
+
+// .shams = "Shams"; // Not allowed as . is not allowed in variable name
+
+let shams= 10;
+// let shams = 20; // Not allowed as shams is already declared
+console.log(shams);
