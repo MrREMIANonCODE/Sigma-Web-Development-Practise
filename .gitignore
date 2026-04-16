@@ -1,0 +1,7 @@
+# Ignore all executable files
+*.exe
+
+# (Optional) You can also ignore build folders if your exe files go in there
+bin/
+build/
+dist/
